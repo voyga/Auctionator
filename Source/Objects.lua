@@ -31,6 +31,7 @@ Auctionator = {
   ShoppingLists = {},
   Enchant = {},
   Selling = {},
+  EverythingNew = {},
 
   API = {
     v1 = {}
